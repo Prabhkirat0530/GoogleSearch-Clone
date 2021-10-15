@@ -1,0 +1,154 @@
+/* Header */
+.Header{
+    text-align: right;
+    margin-right: 60px;
+    margin-top: 20px;
+}
+
+.headerlinks{
+    color: black;
+    margin-right: 20px;
+    color: rgb(105, 105, 105);
+    font-size: 12px;
+    font-family: sans-serif;
+    cursor: pointer;
+    text-decoration: none;
+    padding-top: 40px;
+} 
+.headerlinks:hover{
+    text-decoration: underline;
+}
+
+.profile{
+    background-size: 32px 32px;
+    border: 0;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    display:inline;
+    height: 32px;
+    width: 32px;
+    cursor: pointer;
+    position:fixed;
+    right: 20px;
+    top: 14px;
+}
+
+
+/* Main Component */
+
+.logo{
+    width: 19%;
+    text-align: center;
+}
+
+.logo-container{
+    text-align: center;
+    padding-top: 180px;
+    height: auto;
+}
+
+.Search{
+    width: 40%;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 430px;
+    border-radius: 20px;
+    text-align: center;
+    border: 1px solid rgb(220, 220, 225);
+    box-shadow: 0.2px 0.2px 0.2px 0.2px rgb(232, 232, 235);
+}
+
+.icon{
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    margin-top: 8px;
+    margin-left: -30px;
+    
+}
+
+.Search:hover{
+    border-color: rgba(223,225,229,0);
+    box-shadow: 0 1px 6px rgba(32,33,36,.28);
+}
+
+.SearchBox{
+    width: 85%;
+    height: 38px;
+    border: 0px;
+    border-style: none;
+    outline: none;
+    font-size: 16px;
+}
+
+.btn{
+    width: 120px;
+    height: 36px;
+    margin-right: 10px;
+    display: inline;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    background-color: rgb(249, 249, 250);
+    border-style: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
+.btn:hover{
+    border: 1px solid rgb(220, 220, 225);
+    box-shadow: 0.2px 1px 0.2px 0.2px rgb(232, 232, 235);
+}
+
+.btn-link{
+    font-family: arial,sans-serif;
+    text-decoration: none;
+}
+
+.language{
+    text-decoration: none;
+    margin-bottom: 250px;
+    font-size: 13px;
+}
+
+
+
+/* Footer */
+
+.footer{
+    background-color: rgb(243, 242, 242);
+    height: 95px;
+    width: 100%;
+    position: sticky;
+    bottom: 0;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: rgb(105, 105, 105);
+}
+
+.india{
+    margin-left: 30px;
+    padding-top: 15px;
+}
+
+
+.last{
+    text-align: right;
+    margin-top: -17px;
+}
+
+.links{
+    margin-right: 25px;
+    color: rgb(105, 105, 105);
+    font-size: 14px;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+.links:hover{
+    text-decoration: underline;
+}
+
+.links2{
+    margin-left: 35px;
+    margin-top: 13px;
+}
