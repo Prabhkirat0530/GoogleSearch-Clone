@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GoogleSearch-Clone/static/css/main.a617f46d.chunk.css",
+    "main.js": "/GoogleSearch-Clone/static/js/main.202b486f.chunk.js",
+    "main.js.map": "/GoogleSearch-Clone/static/js/main.202b486f.chunk.js.map",
+    "runtime-main.js": "/GoogleSearch-Clone/static/js/runtime-main.e422314b.js",
+    "runtime-main.js.map": "/GoogleSearch-Clone/static/js/runtime-main.e422314b.js.map",
+    "static/js/2.4ddb3ae3.chunk.js": "/GoogleSearch-Clone/static/js/2.4ddb3ae3.chunk.js",
+    "static/js/2.4ddb3ae3.chunk.js.map": "/GoogleSearch-Clone/static/js/2.4ddb3ae3.chunk.js.map",
+    "static/js/3.9a311775.chunk.js": "/GoogleSearch-Clone/static/js/3.9a311775.chunk.js",
+    "static/js/3.9a311775.chunk.js.map": "/GoogleSearch-Clone/static/js/3.9a311775.chunk.js.map",
+    "index.html": "/GoogleSearch-Clone/index.html",
+    "static/css/main.a617f46d.chunk.css.map": "/GoogleSearch-Clone/static/css/main.a617f46d.chunk.css.map",
+    "static/js/2.4ddb3ae3.chunk.js.LICENSE.txt": "/GoogleSearch-Clone/static/js/2.4ddb3ae3.chunk.js.LICENSE.txt",
+    "static/media/Google.85707a33.png": "/GoogleSearch-Clone/static/media/Google.85707a33.png",
+    "static/media/profile.e36501b8.jpeg": "/GoogleSearch-Clone/static/media/profile.e36501b8.jpeg",
+    "static/media/searchicon.24a11ef4.svg": "/GoogleSearch-Clone/static/media/searchicon.24a11ef4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e422314b.js",
+    "static/js/2.4ddb3ae3.chunk.js",
+    "static/css/main.a617f46d.chunk.css",
+    "static/js/main.202b486f.chunk.js"
+  ]
+}
